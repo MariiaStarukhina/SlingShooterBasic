@@ -1,0 +1,49 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 840M (ID=0x1341)
+    Vendor:   NVIDIA
+    VRAM:     1972 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Мария\Documents\SlingShooterBasic\Slingshooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Мария\Documents\SlingShooterBasic\Slingshooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Мария\Documents\SlingShooterBasic\Slingshooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Мария\Documents\SlingShooterBasic\Slingshooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Мария\Documents\SlingShooterBasic\Slingshooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Мария\Documents\SlingShooterBasic\Slingshooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.126 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Мария\Documents\SlingShooterBasic\Slingshooter_Data\Managed\System.Core.dll (this message is harmless)
+Script error: OnCollisionEnter
+This message parameter has to be of type: Collision
+The message will be ignored.
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoScriptCache.cpp Line: 247)
+
+Platform assembly: C:\Users\Мария\Documents\SlingShooterBasic\Slingshooter_Data\Managed\System.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1560)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1713)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Dynamics/Dynamics3/PhysicsManager.cpp Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Dynamics/Dynamics3/PhysicsManager.cpp Line: 1275)
+
+Non-convex MeshColliders with non-kinematic Rigidbodies are no longer supported in Unity 5.0.
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Dynamics/Dynamics3/PhysicsManager.cpp Line: 1275)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1d6c -> priority: 1 
